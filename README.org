@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/atlas-engineer/nhooks.git   |
-| commit  | d9d4450  |
-| systems | nhooks |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/atlas-engineer/nhooks.git |
+| commit  | 24a7a6d                                          |
+| systems | nhooks                                           |
+|---------+--------------------------------------------------|
