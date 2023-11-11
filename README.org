@@ -4,6 +4,6 @@
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/nhooks.git |
-| commit  | 24a7a6d                                          |
+| commit  | b8e8cde                                          |
 | systems | nhooks                                           |
 |---------+--------------------------------------------------|
